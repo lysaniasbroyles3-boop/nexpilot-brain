@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "The AI brain powering Nexora Nexpilot",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
